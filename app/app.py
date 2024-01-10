@@ -28,8 +28,8 @@ def add_prediction(dictionary):
     else:
         st.write("Malicious")
 
-    st.write("Probability od being bening: ", model.predict_proba(input_array_scaled)[0][0])
-    st.write("Probability od being malicious: ", model.predict_proba(input_array_scaled)[0][1])
+    st.write("Probability of being bening: ", model.predict_proba(input_array_scaled)[0][0])
+    st.write("Probability of being malicious: ", model.predict_proba(input_array_scaled)[0][1])
     
     st.write("While this app can aid medical professionals in diagnosis, it must not be utilized as a replacement for professional diagnosis and medical advice.")
     
