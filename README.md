@@ -11,16 +11,18 @@ I built this app as part of my learning journey in machine learning, using a dat
 You can actually check out a live version of the app on [Streamlit Community Cloud](https://8vcndpz6vixttytx7bdcny.streamlit.app/).
 
 ## Getting Started: Breast Cancer Diagnosis App 🚀
----
 Before you dive in, make sure you have Python 3.6 or higher installed on your machine. To set up the project locally, follow these steps:
-
 Clone the Repository:
+
 [git clone](https://github.com/saha-trideep/Regression-Model-App-Streamlit.git)
-cd breast-cancer-diagnosis-app
+
 
 Install Dependencies:
+
 pip install -r requirements.txt
-This command will install all the necessary packages, including Streamlit,Scikit_Learn, Plotly .
+
+This command will install all the necessary packages, including Streamlit,Scikit_Learn, Plotly.
+
 
 Run the App:
 streamlit run main.py
