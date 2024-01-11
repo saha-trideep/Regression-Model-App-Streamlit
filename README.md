@@ -22,15 +22,11 @@ pip install -r requirements.txt
 
 This command will install all the necessary packages, including Streamlit,Scikit_Learn, Plotly.
 
-
-Run the App:
-
+##Run the App:
 
 streamlit run main.py
 
-
 Open your browser to see the Breast Cancer Diagnosis App in action!
-
 
 
 Feel free to explore the app, and let me know if you have any questions or suggestions. Happy coding! 🌟
