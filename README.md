@@ -1,8 +1,6 @@
-# Regression-Model-App-Streamlit
-## Breast Cancer Diagnosis App
----
+# Breast Cancer Diagnosis App
+
 ## OverView
----
 Hey there! So, I recently built my first project – the Breast Cancer Diagnosis app! 🚀 I created it with the help of some awesome tutorials on YouTube. The app is like a cool virtual assistant for medical professional, helping them figure out if a breast lump is something to worry about or not.
 
 Here's the gist: you input some measurements, and the app uses fancy machine learning tricks to predict if the lump is harmless or might need some attention. It even shows a radar chart with the data and tells you the chances of it being either good or not-so-great.
@@ -26,8 +24,8 @@ This command will install all the necessary packages, including Streamlit,Scikit
 
 Run the App:
 streamlit run main.py
-Open your browser and go to http://localhost:8501 to see the Breast Cancer Diagnosis App in action!
----
+Open your browser to see the Breast Cancer Diagnosis App in action!
+
 Feel free to explore the app, and let me know if you have any questions or suggestions. Happy coding! 🌟
 
 Note: This project was developed using Python version 3.7."
